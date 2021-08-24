@@ -1,6 +1,4 @@
 
+c
+java:S1192"FDefine a constant instead of duplicating this literal "DEBIT" 4 times.(½ıªú8­ªó¹·/
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø•ßùÿÿÿÿ
-`
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÏŠıİıÿÿÿÿ
-\
-java:S2142)"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â

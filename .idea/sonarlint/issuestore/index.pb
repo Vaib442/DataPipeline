@@ -13,3 +13,14 @@ S
 #src/main/java/flink/PatternApi.java,0\e\0e51f41ce4cf8c89c56c3c8426898d15a60ca58f
 \
 ,src/main/java/serdes/CustomDeserializer.java,c\2\c2f9aa746af97f402e4fe834ccb58bb9d789983f
+b
+2src/test/java/FlinkIntegrationTests/TestFlink.java,3\f\3f9249796a67e31286f047c573a68e1068d1da7b
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+N
+src/main/java/dto/UserDto.java,1\5\15c81aa038b853c33b659e8125608969dae8b684
+Y
+)src/main/java/flink/FlinkApplication.java,3\1\31b93040185d3de28e6e10c87948b95bba9ffca9
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
